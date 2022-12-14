@@ -1,7 +1,15 @@
+## About this project
 This is a [Next.js](https://nextjs.org/) project for a successful transaction page
 
 
+Demo
+## Dark Mode
+![Dark Mode](https://github.com/avs-abhishek123/Next.js-Successful-Transaction/blob/main/Readme-images/successful-transaction-demo.PNG)
 
+<hr>
+
+## Light Mode
+![Light Mode](https://github.com/avs-abhishek123/Next.js-Successful-Transaction/blob/main/Readme-images/successful-transaction-demo-light-mode.PNG)
 
 
 
